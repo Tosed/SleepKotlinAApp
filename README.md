@@ -4,11 +4,11 @@ App created to check the quality of sleep according to the hours.
 
 **Skills used**
 
-- [ ] LiveData
-- [ ] Room
-- [ ] Coroutines
-- [ ] Fragments
-- [ ] Navigation
+- [X] LiveData
+- [X] Room
+- [X] Coroutines
+- [X] Fragments
+- [X] Navigation
 
 
 **IMAGES**
